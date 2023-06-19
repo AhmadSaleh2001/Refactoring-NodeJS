@@ -1,4 +1,4 @@
-let Service = require("./generalService");
+let Service = require("./crud.service");
 
 class orderService extends Service {
   constructor(Model) {
